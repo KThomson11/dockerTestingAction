@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 IMAGE_NAME="my-hello-world"
 IMAGE_TAG="latest"
